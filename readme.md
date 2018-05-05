@@ -2,7 +2,7 @@
 
 This repository gathers a few examples of web developments using Bootstrap, CSS grid, jQuery, etc.
 
-## Bootstrap
+## Bootstrap templates
 
 ![alt text](templates/bootstrap1.jpg?raw=true "Album")
 [HTML](templates/bootstrap1.html)
