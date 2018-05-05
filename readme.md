@@ -9,7 +9,9 @@ Back in 1999, I started with plain HTML/CSS (using the good old Notepad editor!)
 Today, I'm getting up to date with the latest trend in Front-/Back-end web developments: Bootstrap, CSS grid, Angular, jQuery, NodeJS, etc.  I've created this repository to track everything I'm learning on these topics.
 
 ## Bootstrap
-- [Album](bootstrap/album.html)
-  (bootstrap/album.jpg?raw=true "Album")
-- [Dashboard](bootstrap/dashboard.html)
-  (bootstrap/dashboard.jpg?raw=true "Dashboard")
+
+![alt text](bootstrap/album.jpg?raw=true "Album")
+[HTML](bootstrap/album.html)
+
+![alt text](bootstrap/dashboard.jpg?raw=true "Dashboard")
+[HTML](bootstrap/dashboard.html)
