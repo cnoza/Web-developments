@@ -18,4 +18,4 @@ Today, I'm getting up to date with the latest trend in Front-/Back-end web devel
 
 ## CSS grid
 ![alt text](css-grid/css-grid.jpg?raw=true "CSS grid")
-[HTML](css-grid/examples.html) ([Source](https://scrimba.com))
+[HTML](css-grid/example1.html) ([Source](https://scrimba.com))
