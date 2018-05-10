@@ -12,6 +12,7 @@
 ![alt text](images/POST.jpg?raw=true "POST")
 
 In the DB:
+
 ![alt text](images/DB.jpg?raw=true "We verify the inserted record in the DB.")
 
 ### Retrieve (GET)
