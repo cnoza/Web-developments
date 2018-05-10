@@ -10,7 +10,7 @@ Today, I'm getting up to date with the latest technologies in Front-/Back-end we
 
 ## Portfolio page
 
-Coming soon.
+Link: [https://cnoza.github.io](https://cnoza.github.io) (Work in progress)
 
 
 <!--![alt text](bootstrap/album.jpg?raw=true "Album")
