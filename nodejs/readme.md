@@ -1,4 +1,5 @@
 # REST API's to manage notes (CRUD)
+Basic CRUD API build to learn about the below technologies.  The app is based on this great [tutorial](https://medium.freecodecamp.org/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2) by Scott Domes.
 
 ## Technologies
 - NodeJS
