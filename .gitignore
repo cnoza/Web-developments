@@ -1,2 +1,3 @@
 nodejs/node_modules/
 nodejs/config/db.js
+mongodb-app/node_modules/
